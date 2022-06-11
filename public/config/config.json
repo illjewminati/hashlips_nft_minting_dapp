@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x61D31B661830c71983630ff872a1C87C40d16BF7",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x61d31b661830c71983630ff872a1c87c40d16bf7",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "Touching Grass",
   "SYMBOL": "patch of GRASS",
