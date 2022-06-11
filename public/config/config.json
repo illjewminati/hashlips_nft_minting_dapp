@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "$$$$$$$$$$$$$$$$$",
-  "SCAN_LINK": "",
+  "CONTRACT_ADDRESS": "0x61D31B661830c71983630ff872a1C87C40d16BF7",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x61d31b661830c71983630ff872a1c87c40d16bf7",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "opensea.io",
+  "MARKETPLACE_LINK": "Opensea.io",
   "SHOW_BACKGROUND": true
 }
