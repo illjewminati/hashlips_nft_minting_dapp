@@ -99,8 +99,8 @@ function App() {
   const blockchain = useSelector((state) => state.blockchain);
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
-  const [feedback, setFeedback] = useState(`Click "Touch Grass" to mint your smol plot of peace. 
-  Proceeds to fund a unique 1/1 GRASS TOUCHING EXPERIECE WITH A WEB3 BILLIONAIRE!`);
+  const [feedback, setFeedback] = useState(`Click "Touch Grass" to mint your smol plot of peace.\N
+  PROCEEDS TO FUND A UNIQUE 1/1 GRASS TOUCHING EXPERIECE WITH A WEB3 BILLIONAIRE!`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
